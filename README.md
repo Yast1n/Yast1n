@@ -9,8 +9,8 @@
 ## 🚀 Sobre mí
 
 Trabajo con Python (Django), JavaScript y MySQL.  
-He desarrollado proyectos web y dashboards con Power BI.  
-Actualmente enfocado en Desarrollo Web y análisis de datos.
+Desarrollo aplicaciones web y dashboards con Power BI.  
+Actualmente enfocado en backend y análisis de datos.
 
 ---
 
@@ -19,19 +19,19 @@ Actualmente enfocado en Desarrollo Web y análisis de datos.
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,mysql,linux&perline=10)
 
 **Lenguajes:**
-- Python (Intermedio)
-- JavaScript (Intermedio)
-- SQL (Intermedio)
-
-**Tecnologías:**
-- HTML, CSS
-- WordPress
-- MySQL, SQL Server
-- Git & GitHub
+• Python (Intermedio)  
+• JavaScript (Intermedio)  
+• SQL (Intermedio)
 
 **Herramientas:**
-- Power BI (en desarrollo)
-- Visual Studio Code
+• Django  
+• Power BI  
+• Git & GitHub  
+
+**Otros:**
+• HTML, CSS  
+• MySQL, SQL Server  
+• WordPress 
 
 ---
 
