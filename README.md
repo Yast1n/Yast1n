@@ -1,123 +1,76 @@
-<h1 align="center">Hola 👋, soy Yastin</h1>
-<h3 align="center">Ingeniero en Informática | Buscando mi primera oportunidad laboral en TI</h3>
+# Hola, soy Yastin 👋
 
-<p align="center">
-  <a href="https://linkedin.com/in/TU_LINKEDIN" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:TU_CORREO" target="blank">
-    <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
-  </a>
-  <a href="https://github.com/TU_USUARIO" target="blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+🎓 Ingeniero en Informática  
+💻 Desarrollador Web Junior | Interés en Análisis de Datos (BI)  
 
-<br>
+---
 
-<h2>Sobre mí</h2>
+## 🚀 Sobre mí
 
-<p align="left">
-🎓 Titulado de <strong>Ingeniería en Informática</strong><br>
-💼 Actualmente buscando mi <strong>primera oportunidad laboral en el área TI</strong><br>
-📚 Me encuentro fortaleciendo mis conocimientos con proyectos académicos y personales<br>
-🚀 Interesado en desarrollo de software, soporte TI, automatización y mejora continua<br>
-🤝 Destaco por mi disposición para aprender, adaptarme y aportar valor al equipo<br>
-📫 Contacto: <strong>TU_CORREO</strong>
-</p>
+Soy Ingeniero en Informática con experiencia en desarrollo web durante mi práctica profesional, donde trabajé con WordPress, gestión de hosting y apoyo en proyectos con Python (Django) y bases de datos MySQL.
 
-<br>
+Actualmente me encuentro fortaleciendo mis habilidades en desarrollo web y backend con Python, además de ampliar conocimientos en análisis de datos con Power BI.
 
-<h2>Tecnologías y herramientas</h2>
+Me caracterizo por mi aprendizaje rápido, responsabilidad y capacidad de adaptación, con el objetivo de aportar valor real en entornos tecnológicos.
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,mysql,linux,bash&perline=10" />
-  </a>
-</p>
+---
 
-<br>
+## 🛠️ Tecnologías y herramientas
 
-<h2>Actualmente</h2>
+![My Skills](https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,mysql,linux&perline=10)
 
-<p align="left">
-🔹 Construyendo mi portafolio en GitHub<br>
-🔹 Mejorando mis bases en programación y desarrollo web<br>
-🔹 Subiendo proyectos de cursos, práctica profesional y ejercicios propios<br>
-🔹 Preparándome para integrarme al mundo laboral en TI
-</p>
+**Lenguajes:**
+- Python (Intermedio)
+- JavaScript (Intermedio en formación)
+- SQL (Básico/Intermedio)
 
-<br>
+**Tecnologías:**
+- HTML, CSS
+- WordPress
+- MySQL, SQL Server
+- Git & GitHub
 
-<div id="proyectos">
-<h2>Proyectos destacados</h2>
+**Herramientas:**
+- Power BI (en desarrollo)
+- Visual Studio Code
 
-<table align="left">
-<tr border="none">
+---
 
-<td width="33%" align="center">
-  <p align="center">
-    <a href="https://github.com/TU_USUARIO/proyecto-1" title="Ver proyecto">
-      <img align="center" width="100%" src="https://via.placeholder.com/300x170.png?text=Proyecto+1" alt="Proyecto 1" />
-    </a>
-  </p>
-  <p align="center"><strong>Sistema o App 1</strong></p>
-  <p align="center">Proyecto académico o personal donde trabajé lógica, estructura y resolución de problemas.</p>
-  <p align="center">
-    <a href="https://github.com/TU_USUARIO/proyecto-1" target="blank">
-      <img src="https://img.shields.io/badge/GitHub-Repositorio-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio" />
-    </a>
-  </p>
-</td>
+## 💼 Experiencia relevante
 
-<td width="33%" align="center">
-  <p align="center">
-    <a href="https://github.com/TU_USUARIO/proyecto-2" title="Ver proyecto">
-      <img align="center" width="100%" src="https://via.placeholder.com/300x170.png?text=Proyecto+2" alt="Proyecto 2" />
-    </a>
-  </p>
-  <p align="center"><strong>Proyecto Web</strong></p>
-  <p align="center">Proyecto orientado a práctica de frontend, estructura web y trabajo con tecnologías base.</p>
-  <p align="center">
-    <a href="https://github.com/TU_USUARIO/proyecto-2" target="blank">
-      <img src="https://img.shields.io/badge/GitHub-Repositorio-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio" />
-    </a>
-  </p>
-</td>
+**Práctica Profesional – Desarrollo Web**  
+- Desarrollo y mantenimiento de sitios web en WordPress  
+- Gestión de hosting en Hostinger  
+- Implementación de mejoras visuales y funcionales  
+- Apoyo en desarrollo con Python (Django) y MySQL  
+- Coordinación de tareas dentro del equipo  
 
-<td width="33%" align="center">
-  <p align="center">
-    <a href="https://github.com/TU_USUARIO/proyecto-3" title="Ver proyecto">
-      <img align="center" width="100%" src="https://via.placeholder.com/300x170.png?text=Proyecto+3" alt="Proyecto 3" />
-    </a>
-  </p>
-  <p align="center"><strong>Ejercicio o Automatización</strong></p>
-  <p align="center">Proyecto enfocado en seguir aprendiendo, practicar y documentar mi evolución técnica.</p>
-  <p align="center">
-    <a href="https://github.com/TU_USUARIO/proyecto-3" target="blank">
-      <img src="https://img.shields.io/badge/GitHub-Repositorio-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio" />
-    </a>
-  </p>
-</td>
+---
 
-</tr>
-</table>
-</div>
+## 📊 Actualmente
 
-<br><br><br><br><br><br><br><br><br>
+- 🚀 Construyendo mi portafolio en GitHub  
+- 📚 Aprendiendo y profundizando en JavaScript y Python  
+- 📊 Desarrollando dashboards con Power BI  
+- 💻 Creando proyectos personales para fortalecer mi perfil  
 
-<h2>GitHub Stats</h2>
+---
 
-<p align="center">
-<table align="left">
-<tr border="none">
-<td width="60%" align="center">
-  <img title="GitHub streak" alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=dark&hide_border=false" />
-</td>
+## 📂 Próximos proyectos
 
-<td width="40%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=TU_USUARIO&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=8" />
-</td>
-</tr>
-</table>
-</p>
+*(Sección en construcción)*
+
+- Sistema web con Python (Django)  
+- Aplicaciones frontend con JavaScript  
+- Dashboards de análisis de datos con Power BI  
+
+---
+
+## 📫 Contacto
+
+📧 yastingarroz1@gmail.com  
+🔗 GitHub: https://github.com/Yast1n  
+
+---
+
+⭐ Siempre abierto a oportunidades en desarrollo web, backend o análisis de datos.
