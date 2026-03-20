@@ -1,127 +1,123 @@
-<h1 align="center">Hola 👋  soy Orlando / unsimpleDev ✨ </h1> 
+<h1 align="center">Hola 👋, soy Yastin</h1>
+<h3 align="center">Ingeniero en Informática | Buscando mi primera oportunidad laboral en TI</h3>
 
-<p align="left">
-  <a href="https://www.youtube.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-<a href="https://www.tiktok.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>
-<a href="https://linkedin.com/in/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-<a href="https://fb.com/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
-<a href = "mailto:unsimpledev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
-  </p>
-<br>
-<h2>Sobre mi 😃</h2>
-<!--Intro start-->
-
-<p align="left">
-🎓 INGENIERO EN INFORMÁTICA
-
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
-
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
-
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
-
-📫 Contacto: **unsimpledev@gmail.com**
-<!--Intro end-->
-  </p>
-<br>
-
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
-<!--tech stack icons-->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
+<p align="center">
+  <a href="https://linkedin.com/in/TU_LINKEDIN" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:TU_CORREO" target="blank">
+    <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
+  </a>
+  <a href="https://github.com/TU_USUARIO" target="blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
 <br>
-<!-------------------------->
+
+<h2>Sobre mí</h2>
+
+<p align="left">
+🎓 Titulado de <strong>Ingeniería en Informática</strong><br>
+💼 Actualmente buscando mi <strong>primera oportunidad laboral en el área TI</strong><br>
+📚 Me encuentro fortaleciendo mis conocimientos con proyectos académicos y personales<br>
+🚀 Interesado en desarrollo de software, soporte TI, automatización y mejora continua<br>
+🤝 Destaco por mi disposición para aprender, adaptarme y aportar valor al equipo<br>
+📫 Contacto: <strong>TU_CORREO</strong>
+</p>
+
+<br>
+
+<h2>Tecnologías y herramientas</h2>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,mysql,linux,bash&perline=10" />
+  </a>
+</p>
+
+<br>
+
+<h2>Actualmente</h2>
+
+<p align="left">
+🔹 Construyendo mi portafolio en GitHub<br>
+🔹 Mejorando mis bases en programación y desarrollo web<br>
+🔹 Subiendo proyectos de cursos, práctica profesional y ejercicios propios<br>
+🔹 Preparándome para integrarme al mundo laboral en TI
+</p>
+
+<br>
+
 <div id="proyectos">
-<h2 >Algunos proyectos👨🏻‍💻</h2>
+<h2>Proyectos destacados</h2>
 
-<table align="left" >
+<table align="left">
 <tr border="none">
-  <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/rISmdhlhOPM" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-<td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/fiUkA2OZQjs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/fiUkA2OZQjs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/ProyectoNotificaciones" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-  
-  <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/py31Y1Ku4Es" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/py31Y1Ku4Es" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/MiChatGPT" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
+
+<td width="33%" align="center">
+  <p align="center">
+    <a href="https://github.com/TU_USUARIO/proyecto-1" title="Ver proyecto">
+      <img align="center" width="100%" src="https://via.placeholder.com/300x170.png?text=Proyecto+1" alt="Proyecto 1" />
+    </a>
+  </p>
+  <p align="center"><strong>Sistema o App 1</strong></p>
+  <p align="center">Proyecto académico o personal donde trabajé lógica, estructura y resolución de problemas.</p>
+  <p align="center">
+    <a href="https://github.com/TU_USUARIO/proyecto-1" target="blank">
+      <img src="https://img.shields.io/badge/GitHub-Repositorio-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio" />
+    </a>
+  </p>
 </td>
 
-   <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/FbQtooM3UIs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/traductorchatgpt.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/FbQtooM3UIs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/MiTraductor" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
+<td width="33%" align="center">
+  <p align="center">
+    <a href="https://github.com/TU_USUARIO/proyecto-2" title="Ver proyecto">
+      <img align="center" width="100%" src="https://via.placeholder.com/300x170.png?text=Proyecto+2" alt="Proyecto 2" />
+    </a>
+  </p>
+  <p align="center"><strong>Proyecto Web</strong></p>
+  <p align="center">Proyecto orientado a práctica de frontend, estructura web y trabajo con tecnologías base.</p>
+  <p align="center">
+    <a href="https://github.com/TU_USUARIO/proyecto-2" target="blank">
+      <img src="https://img.shields.io/badge/GitHub-Repositorio-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio" />
+    </a>
+  </p>
 </td>
-  
+
+<td width="33%" align="center">
+  <p align="center">
+    <a href="https://github.com/TU_USUARIO/proyecto-3" title="Ver proyecto">
+      <img align="center" width="100%" src="https://via.placeholder.com/300x170.png?text=Proyecto+3" alt="Proyecto 3" />
+    </a>
+  </p>
+  <p align="center"><strong>Ejercicio o Automatización</strong></p>
+  <p align="center">Proyecto enfocado en seguir aprendiendo, practicar y documentar mi evolución técnica.</p>
+  <p align="center">
+    <a href="https://github.com/TU_USUARIO/proyecto-3" target="blank">
+      <img src="https://img.shields.io/badge/GitHub-Repositorio-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio" />
+    </a>
+  </p>
+</td>
+
 </tr>
 </table>
-  </div>
-<br>
-<br><br>
-<br>
-<br><br><br>
-<br><br>
+</div>
 
+<br><br><br><br><br><br><br><br><br>
 
-<h2>GitHub :octocat:</h2>
-<!--- stats & Trophy (start) -->
+<h2>GitHub Stats</h2>
+
 <p align="center">
-  <!--- stats (start) -->
 <table align="left">
 <tr border="none">
 <td width="60%" align="center">
-
-<!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
-  <br></br> -->
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" /> 
+  <img title="GitHub streak" alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=dark&hide_border=false" />
 </td>
 
 <td width="40%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-  </td>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=TU_USUARIO&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=8" />
+</td>
 </tr>
 </table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=left>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=unsimpledev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
+</p>
