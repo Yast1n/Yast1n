@@ -66,11 +66,19 @@ Me caracterizo por mi aprendizaje rápido, responsabilidad y capacidad de adapta
 
 ---
 
-## 📫 Contacto
+<section id="contacto">
+  <h2>📬 Contacto</h2>
+  
+  <p>
+    <img src="https://cdn-icons-png.flaticon.com/16/732/732200.png" alt="email">
+    <a href="mailto:yastingarroz1@gmail.com">yastingarroz1@gmail.com</a>
+  </p>
 
-📧 yastingarroz1@gmail.com  
-🔗 GitHub: https://github.com/Yast1n  
-
+  <p>
+    <img src="https://cdn-icons-png.flaticon.com/16/733/733553.png" alt="github">
+    <a href="https://github.com/Yast1n" target="_blank">github.com/Yast1n</a>
+  </p>
+</section>
 ---
 
 ⭐ Siempre abierto a oportunidades en desarrollo web, backend o análisis de datos.
