@@ -1,7 +1,8 @@
 # Hola, soy Yastin 👋
 
 🎓 Ingeniero en Informática  
-💻 Desarrollador Web Junior | Análisis de Datos (BI)  
+💻 Desarrollador Web Junior (Python & JavaScript)  
+📊 Interés en Análisis de Datos (Power BI)
 
 ---
 
@@ -11,8 +12,6 @@ Trabajo con Python (Django), JavaScript y MySQL.
 He desarrollado proyectos web y dashboards con Power BI.  
 Actualmente enfocado en Desarrollo Web y análisis de datos.
 
-Me caracterizo por mi aprendizaje rápido, responsabilidad y capacidad de adaptación, con el objetivo de aportar valor real en entornos tecnológicos.
-
 ---
 
 ## 🛠️ Tecnologías y herramientas
@@ -21,8 +20,8 @@ Me caracterizo por mi aprendizaje rápido, responsabilidad y capacidad de adapta
 
 **Lenguajes:**
 - Python (Intermedio)
-- JavaScript (Intermedio en formación)
-- SQL (Básico/Intermedio)
+- JavaScript (Intermedio)
+- SQL (Intermedio)
 
 **Tecnologías:**
 - HTML, CSS
